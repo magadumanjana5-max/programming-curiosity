@@ -6,17 +6,65 @@ Don’t search for answers immediately. Pick questions, discuss them with your t
 
 ## Explore the topics
 
-1. [The programming world](01-programming-basics/why-programming.md)
-2. [Your first line of code](02-variables-and-memory/variables.md)
-3. [Memory — the hidden world](02-variables-and-memory/memory.md)
-4. [When you run a program](03-how-programs-run/compiler.md)
-5. [The internet](04-internet/dns.md)
-6. [APIs](05-apis/what-is-api.md)
-7. [Databases](06-databases/sql.md)
-8. [Security](07-security/authentication.md)
-9. [Language comparisons](09-language-comparisons/python.md)
-10. [Real-world software](08-cloud-and-deployment/server.md)
-11. [The 10 rabbit holes](#the-10-rabbit-holes)
+### 01 — Programming basics
+
+- [Why programming?](01-programming-basics/why-programming.md)
+- [Programming languages](01-programming-basics/programming-languages.md)
+- [How code runs](01-programming-basics/how-code-runs.md)
+
+### 02 — Variables and memory
+
+- [Variables](02-variables-and-memory/variables.md)
+- [Memory](02-variables-and-memory/memory.md)
+- [Stack and heap](02-variables-and-memory/stack-and-heap.md)
+- [Garbage collection](02-variables-and-memory/garbage-collection.md)
+
+### 03 — How programs run
+
+- [Compiler](03-how-programs-run/compiler.md)
+- [Interpreter and virtual machine](03-how-programs-run/interpreter.md)
+- [Process](03-how-programs-run/process.md)
+- [Threads](03-how-programs-run/threads.md)
+
+### 04 — Internet
+
+- [DNS](04-internet/dns.md)
+- [IP addresses and ports](04-internet/ip.md)
+- [HTTP](04-internet/http.md)
+- [HTTPS](04-internet/https.md)
+
+### 05 — APIs
+
+- [What is an API?](05-apis/what-is-api.md)
+- [Request and response](05-apis/request-response.md)
+- [REST API](05-apis/rest-api.md)
+
+### 06 — Databases
+
+- [SQL databases](06-databases/sql.md)
+- [NoSQL](06-databases/nosql.md)
+- [Database indexes](06-databases/indexes.md)
+- [Database transactions](06-databases/transactions.md)
+
+### 07 — Security
+
+- [Authentication](07-security/authentication.md)
+- [Authorization and web security](07-security/authorization.md)
+- [Hashing](07-security/hashing.md)
+- [Encryption](07-security/encryption.md)
+
+### 08 — Cloud and deployment
+
+- [Servers and deployment](08-cloud-and-deployment/server.md)
+- [Cloud](08-cloud-and-deployment/cloud.md)
+- [Scaling](08-cloud-and-deployment/scaling.md)
+
+### 09 — Language comparisons
+
+- [Python](09-language-comparisons/python.md)
+- [JavaScript](09-language-comparisons/javascript.md)
+- [Java](09-language-comparisons/java.md)
+- [Python vs. JavaScript vs. Java](09-language-comparisons/python-vs-javascript-vs-java.md)
 
 ### The 10 rabbit holes
 
